@@ -13,7 +13,7 @@ function divide(a, b) {
 }
 
 module.exports = {
-    add,
+    //add,
     subtract,
     divide
 };
